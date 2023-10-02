@@ -1,5 +1,5 @@
 # ADSA_Algorithms_Assignments
-#ADVANCED DATA STRUCTURE AND ALGORITHMS
+# ADVANCED DATA STRUCTURE AND ALGORITHMS
  
 ## Get your hands on some DSA concepts
 ⚠️Warning : Code writen using [Python](https://docs.python.org/3/).
