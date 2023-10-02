@@ -7,4 +7,4 @@
 ### Contents:
 1. [**Sorting Algo's**](https://www.geeksforgeeks.org/sorting-algorithms/) [*Code*](sort.py)
 2. [**Matrix chain multiplication problem**](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/) [*Code*](DynamicMatrixMultiply.py)
-3. [**N-Queens**](https://www.geeksforgeeks.org/python-program-for-n-queen-problem-backtracking-3/) [*Code*](Nqueens.py)
+3. [**N-Queens**](https://www.javatpoint.com/n-queens-problems) [*Code*](Nqueens.py)
